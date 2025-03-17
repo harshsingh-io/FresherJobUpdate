@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fresher Job Update</string>
+    <string name="notification_permission_required">Notification access is required for this app to work</string>
+    <string name="enable_notification_access">Please enable notification access</string>
+    <string name="no_jobs_found">No job postings found yet</string>
+    <string name="jobs_will_appear_here">Job notifications from WhatsApp and Telegram will appear here</string>
+    <string name="mark_as_read">Mark as read</string>
+    <string name="delete">Delete</string>
+    <string name="settings">Settings</string>
+</resources>
