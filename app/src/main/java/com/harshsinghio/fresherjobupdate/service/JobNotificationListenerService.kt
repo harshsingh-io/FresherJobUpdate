@@ -20,7 +20,8 @@ class JobNotificationListenerService : NotificationListenerService() {
     // Specify the apps you want to monitor
     private val TARGET_APPS = listOf(
         "com.whatsapp",
-        "org.telegram.messenger"
+        "org.telegram.messenger",
+        "org.telegram.plus"
     )
 
     // Job posting patterns
